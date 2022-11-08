@@ -1,4 +1,4 @@
-# reeborg-s-world---maze
+# reeborg-s-world-maze
 This is the exercise project of the maze resolution
 
 Play here:
