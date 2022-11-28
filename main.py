@@ -5,6 +5,8 @@ def turn_right():
 def goal():
     while front_is_clear():
         move()
+    
+    turn_left()
         
     while not at_goal():
         if front_is_clear():
